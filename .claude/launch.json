@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "climate-risk-analyzer",
+      "runtimeExecutable": "/Users/olivier.hauss/.nvm/versions/node/v20.20.2/bin/node",
+      "runtimeArgs": ["/Users/olivier.hauss/Documents/GitHub/claude_test/.claude/worktrees/compassionate-montalcini/Climate Business Risk Analyzer/dev-server.js", "dev"],
+      "port": 3000
+    }
+  ]
+}
